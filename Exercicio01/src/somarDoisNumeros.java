@@ -16,7 +16,7 @@ public class somarDoisNumeros {
 		
 		soma = num1 + num2;
 		
-		
+		System.out.println("Resposta:");
 		System.out.println(soma);
 		
 		
